@@ -39,7 +39,7 @@ Use `for` Loop (back text below excape key)
 2. List Two
 3. List Three
 
-|  1. Indentation
+|   1. List 3 spaces Indentation
 
 - Bullet Point
 
