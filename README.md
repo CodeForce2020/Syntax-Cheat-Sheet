@@ -52,7 +52,7 @@ This is a code
 
 [^Note]: This is a note.
 
-**Links:**
+# Links:
 
 [Sample Link](https://samplelink.com)
 
