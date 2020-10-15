@@ -60,7 +60,7 @@ Use `for` Loop (back text below excape key)
 |---|---|---|
 |One|Two|Three|
 
-Tables: Test Table
+Table: This is a caption
 
 
 >Keep Smiling
