@@ -1,4 +1,6 @@
-# Mark Down Syntax Cheat Sheet
+% Markdown Cheat Sheet
+
+# Headings:
 
 # Heading 1
 ## Heading 2
@@ -7,6 +9,11 @@
 ##### Heading 5
 ###### Heading 6
 
+
+---
+
+# Styles
+
 _Italics_
 
 *BOLD*
@@ -14,6 +21,28 @@ _Italics_
 **Strong / Bold**
 
 ~Strike Through~
+
+
+**Lists**
+
+1. List One
+2. List Two
+3. List Three
+
+* Bullet List
+- Bullet Point
+
+|   1. List 3 spaces Indentation
+
+# Block Quotes
+
+> Block Quotation 
+
+# Foodnote:
+
+[^Note]
+
+[^Note]: This is a note.
 
 **Links:**
 
@@ -36,15 +65,7 @@ Tables: Test Table
 
 >Keep Smiling
 
-**Lists**
 
-1. List One
-2. List Two
-3. List Three
-
-|   1. List 3 spaces Indentation
-
-- Bullet Point
 
 **Line Separations**
 
