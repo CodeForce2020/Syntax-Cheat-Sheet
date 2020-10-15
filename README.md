@@ -28,6 +28,7 @@ _Italics_
 * Item 1
 * Item 2
 * Item 3
+
 | * Nested Item 1
 | * Nested Item 2
 
@@ -44,10 +45,13 @@ _Italics_
 
 > This is a Block Quotation 
 
+
+<!-- Inline Code Block>
 # Code Blocks
 
 ```
-This is a code
+T<p>This is a paragraph</p>
+
 ```
 
 # Foodnote:
