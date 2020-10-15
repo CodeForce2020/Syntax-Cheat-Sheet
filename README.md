@@ -38,6 +38,12 @@ _Italics_
 
 > Block Quotation 
 
+# Code Blocks
+
+```
+This is a code
+```
+
 # Foodnote:
 
 [^Note]
