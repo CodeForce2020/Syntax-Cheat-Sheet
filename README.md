@@ -66,7 +66,17 @@ return num1 + num2;
 
 ```
 
+---
 
+<!-- Inline Code Block -->
+# Python Code Blocks
+
+```python
+def add(num1, num2):
+| return num1 + num2
+
+
+```
 
 
 # Foodnote:
