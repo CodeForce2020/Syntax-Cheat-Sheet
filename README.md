@@ -50,9 +50,24 @@ _Italics_
 # Code Blocks
 
 ```
-T<p>This is a paragraph</p>
+<p>This is a paragraph</p>
 
 ```
+
+---
+
+<!-- Inline Code Block -->
+# Code Blocks
+
+```javascript
+function add(num1, num2) {
+return num1 + num2;
+}
+
+```
+
+
+
 
 # Foodnote:
 
