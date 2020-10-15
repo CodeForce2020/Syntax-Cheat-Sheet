@@ -22,17 +22,21 @@ _Italics_
 
 ~Strike Through~
 
+<!-- UL -->
+# Lists:
 
-**Lists**
+* Item 1
+* Item 2
+* Item 3
+| * Nested Item 1
+| * Nested Item 2
 
-1. List One
-2. List Two
-3. List Three
 
-* Bullet List
-- Bullet Point
+# Ordered Lists:
 
-|   1. List 3 spaces Indentation
+1. Item 1
+2. Item 2
+
 
 <!-- Blockquote -->
 
