@@ -36,7 +36,9 @@ _Italics_
 
 <!-- Blockquote -->
 
-> Block Quotation 
+# Block Quotes
+
+> This is a Block Quotation 
 
 # Code Blocks
 
