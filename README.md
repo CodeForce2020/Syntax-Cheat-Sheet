@@ -46,7 +46,7 @@ _Italics_
 > This is a Block Quotation 
 
 
-<!-- Inline Code Block>
+<!-- Inline Code Block -->
 # Code Blocks
 
 ```
